@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modul2.iml" filepath="$PROJECT_DIR$/Modul2.iml" />
       <module fileurl="file://$PROJECT_DIR$/SystemTime/SystemTime.iml" filepath="$PROJECT_DIR$/SystemTime/SystemTime.iml" />
