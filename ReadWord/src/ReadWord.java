@@ -28,9 +28,10 @@ public class ReadWord {
             case 9:
                 readWord = "Nine";break;
             default:
-                readWord = "out of ability";
+                readWord = " out of ability";
         }
         if (readWord != "")System.out.printf("The '%d' read is '%s'",number, readWord);
         else System.out.print("Invite input");
+        
     }
 }
