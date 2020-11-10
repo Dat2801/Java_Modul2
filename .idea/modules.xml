@@ -3,6 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_AddInArray/BT_AddInArray.iml" filepath="$PROJECT_DIR$/BT_AddInArray/BT_AddInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_ClearInArray/BT_ClearInArray.iml" filepath="$PROJECT_DIR$/BT_ClearInArray/BT_ClearInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_GopMang/BT_GopMang.iml" filepath="$PROJECT_DIR$/BT_GopMang/BT_GopMang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_PTBac2/BT_PTBac2.iml" filepath="$PROJECT_DIR$/BT_PTBac2/BT_PTBac2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_StopWatch/BT_StopWatch.iml" filepath="$PROJECT_DIR$/BT_StopWatch/BT_StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/CheckPrime/CheckPrime.iml" filepath="$PROJECT_DIR$/CheckPrime/CheckPrime.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
       <module fileurl="file://$PROJECT_DIR$/Key_Menu/Key_Menu.iml" filepath="$PROJECT_DIR$/Key_Menu/Key_Menu.iml" />
@@ -14,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/SNT/SNT.iml" filepath="$PROJECT_DIR$/SNT/SNT.iml" />
       <module fileurl="file://$PROJECT_DIR$/SystemTime/SystemTime.iml" filepath="$PROJECT_DIR$/SystemTime/SystemTime.iml" />
       <module fileurl="file://$PROJECT_DIR$/THTimGiaTriTrongMang/THTimGiaTriTrongMang.iml" filepath="$PROJECT_DIR$/THTimGiaTriTrongMang/THTimGiaTriTrongMang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH_Class/TH_Class.iml" filepath="$PROJECT_DIR$/TH_Class/TH_Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH_DaoNguocMang/TH_DaoNguocMang.iml" filepath="$PROJECT_DIR$/TH_DaoNguocMang/TH_DaoNguocMang.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH_MinArray/TH_MinArray.iml" filepath="$PROJECT_DIR$/TH_MinArray/TH_MinArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH_NhietDo/TH_NhietDo.iml" filepath="$PROJECT_DIR$/TH_NhietDo/TH_NhietDo.iml" />
