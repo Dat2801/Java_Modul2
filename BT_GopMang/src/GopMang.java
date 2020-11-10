@@ -1,6 +1,7 @@
 import java.util.Scanner;
 
 public class GopMang {
+    Scanner scanner = new Scanner(System.in);
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         float [] a = null;
@@ -8,5 +9,6 @@ public class GopMang {
         float [] c = null;
 
         System.out.print("Nhập mảng a: ");
+
     }
 }
