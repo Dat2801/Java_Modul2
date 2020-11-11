@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_AccsessModifier/BT_AccsessModifier.iml" filepath="$PROJECT_DIR$/BT_AccsessModifier/BT_AccsessModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_AddInArray/BT_AddInArray.iml" filepath="$PROJECT_DIR$/BT_AddInArray/BT_AddInArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_ClearInArray/BT_ClearInArray.iml" filepath="$PROJECT_DIR$/BT_ClearInArray/BT_ClearInArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_GopMang/BT_GopMang.iml" filepath="$PROJECT_DIR$/BT_GopMang/BT_GopMang.iml" />
