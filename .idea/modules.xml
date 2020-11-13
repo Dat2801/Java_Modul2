@@ -5,8 +5,12 @@
       <module fileurl="file://$PROJECT_DIR$/BMI/BMI.iml" filepath="$PROJECT_DIR$/BMI/BMI.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_AccsessModifier/BT_AccsessModifier.iml" filepath="$PROJECT_DIR$/BT_AccsessModifier/BT_AccsessModifier.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_AddInArray/BT_AddInArray.iml" filepath="$PROJECT_DIR$/BT_AddInArray/BT_AddInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_ArrayAggregation/BT_ArrayAggregation.iml" filepath="$PROJECT_DIR$/BT_ArrayAggregation/BT_ArrayAggregation.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_ClearInArray/BT_ClearInArray.iml" filepath="$PROJECT_DIR$/BT_ClearInArray/BT_ClearInArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_Cylinder/BT_Cylinder.iml" filepath="$PROJECT_DIR$/BT_Cylinder/BT_Cylinder.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_GopMang/BT_GopMang.iml" filepath="$PROJECT_DIR$/BT_GopMang/BT_GopMang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_Max2Array/BT_Max2Array.iml" filepath="$PROJECT_DIR$/BT_Max2Array/BT_Max2Array.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_MinArray/BT_MinArray.iml" filepath="$PROJECT_DIR$/BT_MinArray/BT_MinArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_PTBac2/BT_PTBac2.iml" filepath="$PROJECT_DIR$/BT_PTBac2/BT_PTBac2.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_StopWatch/BT_StopWatch.iml" filepath="$PROJECT_DIR$/BT_StopWatch/BT_StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/CheckPrime/CheckPrime.iml" filepath="$PROJECT_DIR$/CheckPrime/CheckPrime.iml" />
@@ -15,6 +19,7 @@
       <module fileurl="file://$PROJECT_DIR$/LeapYear/LeapYear.iml" filepath="$PROJECT_DIR$/LeapYear/LeapYear.iml" />
       <module fileurl="file://$PROJECT_DIR$/Menu/Menu.iml" filepath="$PROJECT_DIR$/Menu/Menu.iml" />
       <module fileurl="file://$PROJECT_DIR$/Modul2.iml" filepath="$PROJECT_DIR$/Modul2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Number/Number.iml" filepath="$PROJECT_DIR$/Number/Number.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReadWord/ReadWord.iml" filepath="$PROJECT_DIR$/ReadWord/ReadWord.iml" />
       <module fileurl="file://$PROJECT_DIR$/ReadWord1/ReadWord1.iml" filepath="$PROJECT_DIR$/ReadWord1/ReadWord1.iml" />
       <module fileurl="file://$PROJECT_DIR$/SNT/SNT.iml" filepath="$PROJECT_DIR$/SNT/SNT.iml" />
@@ -22,6 +27,7 @@
       <module fileurl="file://$PROJECT_DIR$/THTimGiaTriTrongMang/THTimGiaTriTrongMang.iml" filepath="$PROJECT_DIR$/THTimGiaTriTrongMang/THTimGiaTriTrongMang.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH_Class/TH_Class.iml" filepath="$PROJECT_DIR$/TH_Class/TH_Class.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH_DaoNguocMang/TH_DaoNguocMang.iml" filepath="$PROJECT_DIR$/TH_DaoNguocMang/TH_DaoNguocMang.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TH_Interface_AnimalClass/TH_Interface_AnimalClass.iml" filepath="$PROJECT_DIR$/TH_Interface_AnimalClass/TH_Interface_AnimalClass.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH_KeThua/TH_KeThua.iml" filepath="$PROJECT_DIR$/TH_KeThua/TH_KeThua.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH_MinArray/TH_MinArray.iml" filepath="$PROJECT_DIR$/TH_MinArray/TH_MinArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/TH_NhietDo/TH_NhietDo.iml" filepath="$PROJECT_DIR$/TH_NhietDo/TH_NhietDo.iml" />
