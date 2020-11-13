@@ -22,5 +22,6 @@ public class Student {
         students[2] = new Student();
         students[3] = new Student();
         students[4] = new Student();
+        return add();
     }
 }

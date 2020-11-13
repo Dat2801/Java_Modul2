@@ -12,6 +12,8 @@
       <module fileurl="file://$PROJECT_DIR$/BT_Max2Array/BT_Max2Array.iml" filepath="$PROJECT_DIR$/BT_Max2Array/BT_Max2Array.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_MinArray/BT_MinArray.iml" filepath="$PROJECT_DIR$/BT_MinArray/BT_MinArray.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_PTBac2/BT_PTBac2.iml" filepath="$PROJECT_DIR$/BT_PTBac2/BT_PTBac2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_Point2D_Point3D/BT_Point2D_Point3D.iml" filepath="$PROJECT_DIR$/BT_Point2D_Point3D/BT_Point2D_Point3D.iml" />
+      <module fileurl="file://$PROJECT_DIR$/BT_Point_MoveablePoint/BT_Point_MoveablePoint.iml" filepath="$PROJECT_DIR$/BT_Point_MoveablePoint/BT_Point_MoveablePoint.iml" />
       <module fileurl="file://$PROJECT_DIR$/BT_StopWatch/BT_StopWatch.iml" filepath="$PROJECT_DIR$/BT_StopWatch/BT_StopWatch.iml" />
       <module fileurl="file://$PROJECT_DIR$/CheckPrime/CheckPrime.iml" filepath="$PROJECT_DIR$/CheckPrime/CheckPrime.iml" />
       <module fileurl="file://$PROJECT_DIR$/Hello/Hello.iml" filepath="$PROJECT_DIR$/Hello/Hello.iml" />
