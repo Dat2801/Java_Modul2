@@ -8,5 +8,6 @@ public class SquareTest {
 
         square = new Square(5.8, "yellow", true);
         System.out.println(square);
+        System.out.print(square.howToColor());
     }
 }

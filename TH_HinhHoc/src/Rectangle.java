@@ -1,4 +1,4 @@
-public class Rectangle extends Shape {
+public class Rectangle extends Shape implements Resizeable {
     private double width = 1.0;
     private double length = 1.0;
 
@@ -44,5 +44,10 @@ public class Rectangle extends Shape {
                 "width=" + width +
                 ", length=" + length +
                 '}';
+    }
+
+    @Override
+    public void resize(double percent) {
+
     }
 }

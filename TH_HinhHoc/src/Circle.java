@@ -1,4 +1,4 @@
-public class Circle extends Shape {
+public class Circle extends Shape implements Resizeable{
     private double radius = 1.0;
 
     public Circle(){
@@ -33,5 +33,14 @@ public class Circle extends Shape {
         return "Circle{" +
                 "radius=" + radius +
                 '}';
+    }
+
+    @Override
+    public void resize(double percent) {
+    }
+
+    @Override
+    public String getColor() {
+        return super.getColor();
     }
 }
